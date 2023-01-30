@@ -1,0 +1,14 @@
+9fa011a438cc565aa68125635a84c2ae *DESCRIPTION
+35322bde3a518b5fdf43068aca6d99e4 *NAMESPACE
+e37a41d3bbc621993179a5f497b91a6e *R/RcppExports.R
+2159e67bc038586ce3b8482adbe4071f *README.md
+dd327e3fb92ee39a7eb0e5353ce129af *man/blockBAGR.Rd
+f87577c3129963d7a54ea01612687c5f *man/blockBSGR.Rd
+c0f3a3fb80d867d3301e8c931c080014 *src/BayesGgmHelper.h
+7af74a731802eda9cee2892915210290 *src/Makevars
+7af74a731802eda9cee2892915210290 *src/Makevars.win
+683a6e90a61b83f1a4e66e09163916c9 *src/RcppExports.cpp
+a78881e47cf70e8aae60dc6ff001c1e4 *src/blockBAGR.cpp
+4c9f3de4b93dab618a3fe909aaf189f2 *src/blockBSGR.cpp
+0ed8832d086d91558aac94c04cc57f09 *src/init.c
+a3e1c91a2f8ca1c4b854366e96edb326 *src/mvnorm.cpp

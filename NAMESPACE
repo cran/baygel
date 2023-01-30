@@ -1,0 +1,7 @@
+useDynLib(baygel, .registration = TRUE)
+importFrom(Rcpp, evalCpp)
+export(blockBAGR)
+export(blockBSGR)
+
+# Suppress R CMD check note
+importFrom(RcppArmadillo, fastLmPure)
