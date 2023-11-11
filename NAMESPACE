@@ -1,17 +1,12 @@
-# CPP R functions
 useDynLib(baygel, .registration = TRUE)
 importFrom(Rcpp, evalCpp)
+export(blockBAGENI)
+export(blockBAGENII)
+export(blockBAGL)
 export(blockBAGR)
-export(blockBSGR)
-
-# Native R functions
-export(blockBAE)
-importFrom(pracma,Reshape)
-importFrom(pracma,triu)
-importFrom(pracma,zeros)
-importFrom(statmod,rinvgauss)
-importFrom(stats,rgamma)
-importFrom(stats,rnorm)
+export(blockBGEN)
+export(blockBGL)
+export(blockBGR)
 
 # Suppress R CMD check note
 importFrom(RcppArmadillo, fastLmPure)
